@@ -83,7 +83,7 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** who loves building in
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-karthikeyachalla-181717?style=for-the-badge&logo=github)](https://github.com/karthikeyachalla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyachalla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthikeya-challa-82633328a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/karthikeyachalla)
 
 </div>
